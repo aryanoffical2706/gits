@@ -1,0 +1,7 @@
+
+Participants will be able to
+
+	- Create repositories
+	- clone repositories
+	- commit the changes and 
+	- create branches
